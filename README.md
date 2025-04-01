@@ -35,11 +35,8 @@ source venv/bin/activate
 
 ### 3. 필수 패키지 설치
 
-```bash
-pip install -r requirements.txt
-```
 
-> 또는 수동 설치:
+> 수동 설치:
 
 ```bash
 pip install langchain langchain-community langchain-core pymupdf
