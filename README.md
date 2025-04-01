@@ -22,8 +22,8 @@ LLM 실험을 로컬에서 해보고 싶은 개발자나,
 ### 1. 프로젝트 클론
 
 ```bash
-git clone https://github.com/your-username/pdf-summarizer.git
-cd pdf-summarizer
+git clone https://github.com/tlawlals112/pdf_summary.git
+cd pdf_summary/
 ```
 
 ### 2. 가상환경 설정 (선택)
