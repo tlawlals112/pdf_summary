@@ -51,6 +51,10 @@ brew install ollama
 ollama serve   # 서버 실행 (필수)
 ```
 
+주의할점은 백그라운드실행으로 항상 켜두어야 한다는 점입니다.
+방법: macos
+(cmd + t) terminal 새 창을 띄운 후에  위의 명령어를 입력해줍니다.
+
 ---
 
 ## 🧪 사용 방법
