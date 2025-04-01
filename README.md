@@ -58,8 +58,13 @@ ollama serve   # 서버 실행 (필수)
 1. 분석할 PDF 파일을 프로젝트 루트에 넣기
 2. 아래 명령어 실행:
 
+pdf파일을 터미널에서 요약
 ```bash
-python3 pdf_lang.py
+python3 pdf_lang.py 
+```
+pdf파일을 txt파일로 요약
+```bash
+python3 pdf_txt.py 
 ```
 
 3. 요약 결과는 터미널에 출력되며, `summary_output.txt`로 저장됩니다.
